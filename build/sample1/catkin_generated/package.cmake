@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "sample1")
+set(sample1_MAINTAINER "hoge <hoge@gmail.com>")
+set(sample1_DEPRECATED "")
+set(sample1_VERSION "0.1.1")
+set(sample1_BUILD_DEPENDS )
+set(sample1_RUN_DEPENDS )
+set(sample1_BUILDTOOL_DEPENDS "catkin")

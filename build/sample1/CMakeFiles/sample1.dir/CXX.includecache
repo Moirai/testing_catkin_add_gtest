@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ysuzuki/test_cws1/src/sample1/sample1.cpp
+sample1.h
+/home/ysuzuki/test_cws1/src/sample1/sample1.h
+
+/home/ysuzuki/test_cws1/src/sample1/sample1.h
+

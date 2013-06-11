@@ -1,0 +1,6 @@
+Name: sample1
+Description: Description of sample1
+Version: 0.1.1
+Cflags: -I
+Libs: -L/usr/local/lib 
+Requires: 
